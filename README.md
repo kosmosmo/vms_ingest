@@ -2,12 +2,12 @@
 
 Airtable implementation for VMS ingesting.
 
-## Installation
-
+##
+### Built With
+- Python3.7
+- Deadline
 
 ### Dependencies
-
-- python3.7
 - request
 
 ### Package Install
