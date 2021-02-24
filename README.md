@@ -21,10 +21,19 @@ Airtable implementation for VMS ingesting.
 - change the record Status to "Ready for Ingest"
 
 ## Documentation
-### Project
+### Paths
 - Project Path: "Y:\\TOOLS\\EmerTech\\VMS_ingest"
 - XML path: "Y:\\TOOLS\\EmerTech\\VMS_ingest\\xml_files"
 
+### Files
+- xml_ingest_standalone.py #python file for airtable and vms scanning.
+- deadline_submit.py #python file for deadline to create xml and ingest to VMS
+- airtable_parameters #this file store all the parameters for airtable API access in json format
+- vms_parameters  #this file store all the parameters for vms API access in json format
+
 ### Diagrams
+Simple architecture diagram
 ![](chart1.jpeg)
+
+Detail airtable monitoring & vms monitoring diagram
 ![](chart2.jpeg)
