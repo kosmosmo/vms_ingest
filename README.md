@@ -1,5 +1,5 @@
 # VMS Ingest
-Airtable implementation for VMS ingesting.
+Airtable for VMS ingesting.
 
 ## Getting Starte
 ### Built With
