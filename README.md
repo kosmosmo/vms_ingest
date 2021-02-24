@@ -24,3 +24,7 @@ Airtable implementation for VMS ingesting.
 ### Project
 - Project Path: "Y:\\TOOLS\\EmerTech\\VMS_ingest"
 - XML path: "Y:\\TOOLS\\EmerTech\\VMS_ingest\\xml_files"
+
+### Diagrams
+![](chart1.jpeg)
+![](chart2.jpeg)
